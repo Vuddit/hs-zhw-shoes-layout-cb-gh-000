@@ -33,6 +33,7 @@
 .col-2 {
   float: left;
   width: 66%;
+  height: 100%;
 }
 
 [class*="col-"] {
