@@ -37,6 +37,12 @@
   height: 100%;
 }
 
+.col-3 {
+  position: absolute;
+  left: 0;
+  width: 32%;
+}
+
 [class*="col-"] {
   margin-left: 2%;
 }
