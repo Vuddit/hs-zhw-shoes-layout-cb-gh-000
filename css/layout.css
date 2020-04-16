@@ -58,4 +58,6 @@
 .wrapper-1 {
   width: 960px;
   margin: 0 auto;
+  overflow: hidden;
+  margin-bottom: 2%;
 }
