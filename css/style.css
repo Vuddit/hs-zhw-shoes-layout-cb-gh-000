@@ -258,7 +258,7 @@ a.gplus:active { background-position: -80px -80px; }
 section {
   padding: 20px;
   background: white;
-  top: 0;
+  margin-bottom: 2%;
 }
 
 section a {
