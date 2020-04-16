@@ -31,12 +31,10 @@
 }
 
 .col-2 {
-  position: absolute;
+  float: left;
   left: 0;
   width: 66%;
   height: 100%;
-  top: 0;
-  bottom: 0;
 }
 
 .col-3 {
