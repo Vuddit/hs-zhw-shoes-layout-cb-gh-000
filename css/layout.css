@@ -35,12 +35,16 @@
   left: 0;
   width: 66%;
   height: 100%;
+  padding-bottom: 500em;
+  margin-bottom: -500em;
 }
 
 .col-3 {
   float: left;
   width: 32%;
   height: 100%;
+  padding-bottom: 500em;
+  margin-bottom: -500em;
 }
 
 [class*="col-"] {
