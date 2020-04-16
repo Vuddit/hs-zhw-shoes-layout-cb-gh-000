@@ -38,11 +38,9 @@
 }
 
 .col-3 {
-  position: absolute;
-  right: 0;
+  float: left;
   width: 32%;
-  top: 0;
-  bottom: 0;
+  height: 100%;
 }
 
 [class*="col-"] {
