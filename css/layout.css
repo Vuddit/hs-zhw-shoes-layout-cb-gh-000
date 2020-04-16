@@ -36,7 +36,7 @@
   width: 66%;
   height: 100%;
   padding-bottom: 500em;
-  margin-bottom: -498em;
+  margin-bottom: -500em;
 }
 
 .col-3 {
@@ -44,7 +44,7 @@
   width: 32%;
   height: 100%;
   padding-bottom: 500em;
-  margin-bottom: -498em;
+  margin-bottom: -500em;
 }
 
 [class*="col-"] {
