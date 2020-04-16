@@ -31,7 +31,8 @@
 }
 
 .col-2 {
-  float: left;
+  position: absolute;
+  left: 0;
   width: 66%;
   height: 100%;
 }
